@@ -1,0 +1,20 @@
+html {
+    background: #0b3e4e;
+}
+body {
+    font-family: Lato, Helvetica, sans-serif;
+}
+header {
+    color: #ffeaa2;
+    font-weight: bold;
+    background: url(bg-1.jpg) top left no-repeat;
+    background-size: cover;
+    height: 500px;
+    box-shadow: inset 0px -2px 2px 0px #000;
+    text-align: center;
+}
+header h1 {
+    font-size: 60px;
+    font-weight: 900;
+    text-shadow: 1px 1px 1px black;
+}
