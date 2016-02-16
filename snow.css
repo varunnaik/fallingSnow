@@ -28,3 +28,7 @@ header h3 {
     top: 52%;    
     transform: translateY(-50%);
 }
+section {
+    background: #666;
+    padding-top: 50px;
+}
