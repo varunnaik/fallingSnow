@@ -1,11 +1,11 @@
 html {
-    background: #0b3e4e;
+    background: #eee;
 }
 body {
     font-family: Lato, Helvetica, sans-serif;
 }
 header {
-    color: #ffeaa2;
+    color: #fff;
     font-weight: bold;
     background: url(bg-1.jpg) top left no-repeat;
     background-size: cover;
@@ -16,5 +16,15 @@ header {
 header h1 {
     font-size: 60px;
     font-weight: 900;
-    text-shadow: 1px 1px 1px black;
+    text-shadow: 2px 2px 2px #000;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+header h3 {
+    text-shadow: 2px 2px 2px #000;
+    font-size: 30px;
+    position: relative;
+    top: 52%;    
+    transform: translateY(-50%);
 }
