@@ -4,6 +4,8 @@
 Demo: http://varunnaik.github.io/fallingSnow/
 
 ###Options:
+
+```
 var snow = fallingSnow();
 snow.fall(
     speed: 0.5, // 0.3-1.0, 1.0 = faster
@@ -11,6 +13,6 @@ snow.fall(
     snowflakeSize: 3, // 1-5, 5 = huge flakes
     element: 'html' // QuerySelector used to add flakes to an element        
 );
-
+```
 
 
