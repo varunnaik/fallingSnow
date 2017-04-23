@@ -1,9 +1,12 @@
-#Falling Snow
-
-###Add snowfall to any page
+Falling Snow
+---
+Add snowfall to any page
 Demo: http://varunnaik.github.io/fallingSnow/
 
-###Options:
+No external dependencies. Just include the scipt file, configure it as below (or use the page above to generate the config for you) and you're ready to go.
+
+Options:
+------
 
 ```
 var snow = fallingSnow();
